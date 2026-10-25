@@ -1,0 +1,7 @@
+data/
+live/
+notebooks/
+.venv/
+__pycache__/
+docs/
+.env

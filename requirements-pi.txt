@@ -1,0 +1,10 @@
+# Для live.py на Pi — ті самі версії, що в навчанні (моделі LightGBM збережені текстом, але ознаки мають рахуватись однаково)
+numpy==2.4.6
+pandas==3.1.0
+pyarrow==26.0.0
+lightgbm==4.7.0
+scikit-learn==1.9.1
+scipy==1.17.1
+pvlib==0.16.1
+requests==2.34.2
+python-dotenv==1.2.4

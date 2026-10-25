@@ -1,0 +1,14 @@
+# Дослідження і навчання (Mac). На Pi піде лише те, що треба для прогнозу.
+requests
+python-dotenv
+pandas
+pyarrow
+matplotlib
+scikit-learn
+lightgbm
+pvlib
+openmeteo-requests
+open-meteo-solar-forecast
+jupyterlab
+ipykernel
+torch

@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Private station data, trained models, live journal
+data/
+models/
+live/
+
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
